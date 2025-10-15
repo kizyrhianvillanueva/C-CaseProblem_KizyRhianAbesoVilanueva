@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void){
+int main(){
     printf("Name: Kizy Rhian Abeso Villanueva\n");
     printf("ID Number: 2025304403\n");
     printf("------------------------------------\n");
@@ -17,3 +17,4 @@ int main(void){
  
     return 0;   
 }
+
